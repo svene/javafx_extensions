@@ -52,6 +52,14 @@ bintray {
         repo = 'mavenrepo'
         name = 'javafx-extensions'
         licenses = ['Apache-2.0']
+        vcsUrl = 'https://github.com/svene/javafx_extensions'
+    }
+    version {
+        name = "$version"
+        desc = 'JavaFX Extensions'
+        released  = new Date()
+        vcsTag = "$version"
+        // attributes = ['gradle-plugin': 'com.use.less:com.use.less.gradle:gradle-useless-plugin']
     }
 }
 
