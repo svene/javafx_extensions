@@ -8,5 +8,8 @@ build_script:
 
 test: off
 
+cache:
+  - C:\Users\appveyor\.gradle
+
 #test_script:
 #  - gradlew test
