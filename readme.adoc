@@ -1,5 +1,5 @@
 = Extensions for JavaFX
 
-image:https://img.shields.io/appveyor/ci/spockframework/spock/master.svg?label=Windows Build[Build Status (AppVeyor), link=https://ci.appveyor.com/project/svene/javafx-extensions]
+image:https://img.shields.io/appveyor/ci/spockframework/spock/master.svg?label=Windows Build[Windows Build Status (AppVeyor), link=https://ci.appveyor.com/project/svene/javafx-extensions]
 
 
